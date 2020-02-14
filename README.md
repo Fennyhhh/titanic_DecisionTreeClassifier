@@ -8,7 +8,7 @@
   train.csv 是训练数据集，包含特征信息和存活与否的标签；
   test.csv: 测试数据集，只包含特征信息。现在我们需要用决策树分类对训练集进行训练，针对测试集中的乘客进行生存预测，并告知分类器的准确率。
 ### 数据字段说明
-![avatar][base64str]
+![数据字段说明](https://github.com/Fennyhhh/titanic_DecisionTreeClassifier/blob/master/ID.png)
 
 ## 安装
 环境：python3
